@@ -20,7 +20,7 @@ package com.example.inventory.data
 /**
  * Entity data class represents a single row in the database.
  */
-class Item(
+data class Item(
     val id: Int = 0,
     val name: String,
     val price: Double,
