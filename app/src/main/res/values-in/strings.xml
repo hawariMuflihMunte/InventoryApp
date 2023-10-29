@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Inventaris</string>
+    <string name="attention">Peringatan</string>
+    <string name="back_button">Kembali</string>
+    <string name="delete">Hapus</string>
+    <string name="delete_question">Yakin ingin menghapus?</string>
+    <string name="no_item_description">Hmmm!\nData barang tidak ditemukan.\nTekan + untuk menambah barang.</string>
+    <string name="edit_item_title">Edit Barang</string>
+    <string name="item">Barang</string>
+    <string name="item_detail_title">Rincian Barang</string>
+    <string name="item_entry_title">Tambah Barang</string>
+    <string name="item_name_req">Nama Barang*</string>
+    <string name="item_price_req">Harga Barang*</string>
+    <string name="no">Tidak</string>
+    <string name="price">Harga</string>
+    <string name="quantity_in_stock">Stok Barang</string>
+    <string name="in_stock">%d stok</string>
+    <string name="quantity_req">Stok Barang*</string>
+    <string name="save_action">Simpan</string>
+    <string name="sell">Jual</string>
+    <string name="yes">Ya</string>
+    <string name="required_fields">*perlu diisi</string>
+</resources>
