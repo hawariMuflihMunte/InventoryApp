@@ -14,8 +14,8 @@
     <string name="item_price_req">Harga Barang*</string>
     <string name="no">Tidak</string>
     <string name="price">Harga</string>
-    <string name="quantity_in_stock">Stok Barang</string>
-    <string name="in_stock">%d stok</string>
+    <string name="quantity_in_stock">Stok</string>
+    <string name="in_stock">Stok %d</string>
     <string name="quantity_req">Stok Barang*</string>
     <string name="save_action">Simpan</string>
     <string name="sell">Jual</string>
